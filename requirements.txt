@@ -1,0 +1,12 @@
+fastapi>=0.110
+uvicorn[standard]>=0.29
+sqlalchemy>=2.0
+python-dotenv>=1.0
+python-multipart>=0.0.9
+pdfplumber>=0.11
+PyMuPDF>=1.24
+Pillow>=10.0
+pytesseract>=0.3.10
+reportlab>=4.0
+# Optional: only for the built-in GigaChat
+# gigachat>=0.1
